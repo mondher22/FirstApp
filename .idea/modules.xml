@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../First/easyms-sdk/easyms-basic-starter/easyms-basic-starter.iml" filepath="$PROJECT_DIR$/../First/easyms-sdk/easyms-basic-starter/easyms-basic-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../First/easyms-config-server/easyms-config-server.iml" filepath="$PROJECT_DIR$/../First/easyms-config-server/easyms-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../First/easyms-oauth2/easyms-oauth2.iml" filepath="$PROJECT_DIR$/../First/easyms-oauth2/easyms-oauth2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../First/easyms-sdk/easyms-rest-starter/easyms-rest-starter.iml" filepath="$PROJECT_DIR$/../First/easyms-sdk/easyms-rest-starter/easyms-rest-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../First/easyms-sdk/easyms-sample-ms/easyms-sample-ms.iml" filepath="$PROJECT_DIR$/../First/easyms-sdk/easyms-sample-ms/easyms-sample-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../First/easyms-sdk/easyms-sdk.iml" filepath="$PROJECT_DIR$/../First/easyms-sdk/easyms-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../First/easyms-sdk/easyms-secured-rest-starter/easyms-secured-rest-starter.iml" filepath="$PROJECT_DIR$/../First/easyms-sdk/easyms-secured-rest-starter/easyms-secured-rest-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../First/easyms-sdk/easyms-secured-sample-ms/easyms-secured-sample-ms.iml" filepath="$PROJECT_DIR$/../First/easyms-sdk/easyms-secured-sample-ms/easyms-secured-sample-ms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../First/sdk-app/sdk-app.iml" filepath="$PROJECT_DIR$/../First/sdk-app/sdk-app.iml" />
+    </modules>
+  </component>
+</project>

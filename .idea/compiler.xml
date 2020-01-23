@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="easyms-rest-starter" />
+        <module name="easyms-secured-rest-starter" />
+        <module name="easyms-oauth2" />
+        <module name="easyms-config-server" />
+        <module name="easyms-basic-starter" />
+        <module name="easyms-sample-ms" />
+        <module name="sdk-app" />
+        <module name="easyms-secured-sample-ms" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="easyms-basic-starter" target="11" />
+      <module name="easyms-config-server" target="11" />
+      <module name="easyms-oauth2" target="11" />
+      <module name="easyms-rest-starter" target="11" />
+      <module name="easyms-sample-ms" target="11" />
+      <module name="easyms-sdk" target="11" />
+      <module name="easyms-secured-rest-starter" target="11" />
+      <module name="easyms-secured-sample-ms" target="11" />
+      <module name="sdk-app" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="easyms-basic-starter" options="-parameters" />
+      <module name="easyms-config-server" options="-parameters" />
+      <module name="easyms-oauth2" options="-parameters" />
+      <module name="easyms-rest-starter" options="-parameters" />
+      <module name="easyms-sample-ms" options="-parameters" />
+      <module name="easyms-secured-rest-starter" options="-parameters" />
+      <module name="easyms-secured-sample-ms" options="-parameters" />
+      <module name="sdk-app" options="-parameters" />
+    </option>
+  </component>
+</project>
